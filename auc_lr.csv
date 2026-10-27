@@ -1,0 +1,16 @@
+dataset,strategy,mean,std
+ag_news,entropy,0.7127,0.0073
+ag_news,least_confidence,0.7277,0.0075
+ag_news,margin,0.7222,0.0167
+ag_news,qbc,0.7166,0.0252
+ag_news,random,0.729,0.0146
+imdb,entropy,0.7791,0.0025
+imdb,least_confidence,0.7791,0.0025
+imdb,margin,0.7791,0.0025
+imdb,qbc,0.7747,0.0102
+imdb,random,0.7897,0.0083
+trec,entropy,0.6201,0.0482
+trec,least_confidence,0.5899,0.0341
+trec,margin,0.6906,0.016
+trec,qbc,0.6792,0.0367
+trec,random,0.6815,0.0312
